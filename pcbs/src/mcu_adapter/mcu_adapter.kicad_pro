@@ -459,7 +459,7 @@
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.15,
+        "clearance": 0.12,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -470,7 +470,7 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 2147483647,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.2,
+        "track_width": 0.12,
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
@@ -488,7 +488,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
@@ -612,7 +612,7 @@
   },
   "sheets": [
     [
-      "d1b5173e-4260-4e80-99cf-7c608a73f969",
+      "68a93801-da32-4eb7-bb95-8ce8aead6888",
       "Root"
     ]
   ],
